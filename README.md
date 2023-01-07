@@ -44,7 +44,7 @@
    ---
    
 ### :writing_hand: Summary :
-   
-   <div id = "Hello">
-   <h2><a href="https://docs.google.com/document/d/1P_8m336UyJ98UT4dyCys5lN-VPlkJ7mofv9TPzoOS04/edit" >My resume </a> 
+  
+   <div>
+   <h2>- <a href="https://docs.google.com/document/d/1P_8m336UyJ98UT4dyCys5lN-VPlkJ7mofv9TPzoOS04/edit" >My resume </a> 
 </div>
