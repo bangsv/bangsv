@@ -20,7 +20,8 @@
 ### :man_technologist: About Me :
 - ### :man_student: Computer science student 🇷🇺.
 - ### :seedling: Exploring Technical Content Writing.
-   
+
+---
 ### :hammer_and_wrench: Languages and Tools :
    
 <div>
@@ -32,7 +33,18 @@
   <img src= "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>
 
 </div>
+  
+   ---
    
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bangsv&theme=dark&background=000000)](https://git.io/streak-stats)
  
+[![codewars](https://www.codewars.com/users/bangsv/badges/large)](https://www.codewars.com/users/bangsv) 
+   
+   ---
+   
+### :writing_hand: Summary :
+   
+   <div id = "Hello">
+   <h2><a href="https://docs.google.com/document/d/1P_8m336UyJ98UT4dyCys5lN-VPlkJ7mofv9TPzoOS04/edit" >My resume </a> 
+</div>
