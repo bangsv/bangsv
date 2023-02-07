@@ -8,6 +8,9 @@
   <a href="https://twitter.com/Bang_Sv_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+     <a href="https://steamcommunity.com/profiles/76561198201143002/">
+    <img src="https://camo.githubusercontent.com/82937164e2381106c051a00700f2978dc0eaba3c31aee4f85b0ad2e10673ab77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537465616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d737465616d266c6f676f436f6c6f723d626c61636b" alt="Steam"/>
+  </a>
 </div>
    
 <div align="center">
