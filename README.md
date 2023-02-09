@@ -56,7 +56,7 @@
     <img src= "https://camo.githubusercontent.com/570197c35feaaeb87e127db0dfbeb8085ed1e1d18120d0a396452794d797bd77/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38322f476e752d626173682d6c6f676f2e7376672f3235363070782d476e752d626173682d6c6f676f2e7376672e706e67" title="bash" alt="bash" width="70" height="40"/>
    
    </div>
-   ---
+
   
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bangsv&theme=dark&background=000000)](https://git.io/streak-stats)
