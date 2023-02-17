@@ -7,7 +7,6 @@
   <img src="https://media.giphy.com/media/Q2T7BXRiDFPJcPoA7Z/giphy.gif" width="250"/>
       
 </div>
-
 <div id="badges" align="center">
   <a href="https://twitter.com/Bang_Sv_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -36,14 +35,14 @@
   <img src= "https://github.com/Jirafey/Jirafey/raw/main/images/CPP.svg" title="CPP" alt="CPP" width="40" height="40"/>
   <img src= "https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>
   <img src= "https://github.com/Jirafey/Jirafey/raw/main/images/Python-Light.svg" title="python" alt="python" width="40" height="40"/>
-    <img src= "https://github.com/Jirafey/Jirafey/blob/main/images/HTML.svg" title="HTML" alt="HTML" width="40" height="40"/>
-   <img src= "https://github.com/Jirafey/Jirafey/blob/main/images/CSS.svg" title="CSS" alt="CSS" width="40" height="40"/>
+  <img src= "https://github.com/Jirafey/Jirafey/blob/main/images/HTML.svg" title="HTML" alt="HTML" width="40" height="40"/>
+  <img src= "https://github.com/Jirafey/Jirafey/blob/main/images/CSS.svg" title="CSS" alt="CSS" width="40" height="40"/>
   <img src= "https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>
   <img src="https://github.com/Jirafey/Jirafey/blob/main/images/CMake-Dark.svg" title="Cmake" **alt="Cmake" width="40" height="40"/>
   <img src="https://github.com/Jirafey/Jirafey/raw/main/images/Github-Light.svg" title="Git" **alt="Git" width="40" height="40"/>
-   <img src="https://github.com/Jirafey/Jirafey/raw/main/images/Git.svg" title="GitLin" **alt="GitLin" width="40" height="40"/>
+  <img src="https://github.com/Jirafey/Jirafey/raw/main/images/Git.svg" title="GitLin" **alt="GitLin" width="40" height="40"/>
   <img src= "https://github.com/Jirafey/Jirafey/raw/main/images/Linux-Light.svg" title="linux" alt="linux" width="40" height="40"/>
-    <img src= "https://github.com/Jirafey/Jirafey/raw/main/images/Photoshop.svg" title="Ph" alt="Ph" width="40" height="40"/>
+   <img src= "https://github.com/Jirafey/Jirafey/raw/main/images/Photoshop.svg" title="Ph" alt="Ph" width="40" height="40"/>
 </div>
   
    ---
@@ -59,9 +58,9 @@
 
   
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bangsv&theme=dark&background=000000)](https://git.io/streak-stats)
- 
-[![codewars](https://www.codewars.com/users/bangsv/badges/large)](https://www.codewars.com/users/bangsv) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bangsv&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bangsv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![codewars](https://www.codewars.com/users/bangsv/badges/large)](https://www.codewars.com/users/bangsv) 
    
    ---
    
