@@ -30,38 +30,17 @@
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-   
-  <img src= "https://github.com/Jirafey/Jirafey/raw/main/images/C.svg" title="C" alt="C" width="40" height="40"/>
-  <img src= "https://github.com/Jirafey/Jirafey/raw/main/images/CPP.svg" title="CPP" alt="CPP" width="40" height="40"/>
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>
   <img src= "https://github.com/Jirafey/Jirafey/raw/main/images/Python-Light.svg" title="python" alt="python" width="40" height="40"/>
-  <img src= "https://github.com/Jirafey/Jirafey/blob/main/images/HTML.svg" title="HTML" alt="HTML" width="40" height="40"/>
-  <img src= "https://github.com/Jirafey/Jirafey/blob/main/images/CSS.svg" title="CSS" alt="CSS" width="40" height="40"/>
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>
-  <img src="https://github.com/Jirafey/Jirafey/blob/main/images/CMake-Dark.svg" title="Cmake" **alt="Cmake" width="40" height="40"/>
-  <img src="https://github.com/Jirafey/Jirafey/raw/main/images/Github-Light.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src= "https://github.com/Jirafey/Jirafey/raw/main/images/CPP.svg" title="CPP" alt="CPP" width="40" height="40"/>
   <img src="https://github.com/Jirafey/Jirafey/raw/main/images/Git.svg" title="GitLin" **alt="GitLin" width="40" height="40"/>
   <img src= "https://github.com/Jirafey/Jirafey/raw/main/images/Linux-Light.svg" title="linux" alt="linux" width="40" height="40"/>
-   <img src= "https://github.com/Jirafey/Jirafey/raw/main/images/Photoshop.svg" title="Ph" alt="Ph" width="40" height="40"/>
 </div>
-  
-   ---
-   
-### 👨‍🎓: Learning :
-   <div>
- <img src= "https://github.com/Jirafey/Jirafey/raw/main/images/JavaScript.svg" title="Js" alt="Js" width="40" height="40"/>
-   <img src= "https://camo.githubusercontent.com/03899ca15bc7682cad570e2638be85926777122dce4b90151d5efc897660d5cd/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6e6f64656a732e706e67" title="NodeJs" alt="NodeJs" width="50" height="50"/>
-    <img src= "https://camo.githubusercontent.com/149029be5d632d26129278083a0e1f965fe112b27bb184c0d851a943816a7ee5/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f35302f3030303030302f6d7973716c2d6c6f676f2e706e67" title="Sql" alt="Sql" width="50" height="50"/>
-    <img src= "https://camo.githubusercontent.com/570197c35feaaeb87e127db0dfbeb8085ed1e1d18120d0a396452794d797bd77/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38322f476e752d626173682d6c6f676f2e7376672f3235363070782d476e752d626173682d6c6f676f2e7376672e706e67" title="bash" alt="bash" width="70" height="40"/>
-   
-   </div>
-
   
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bangsv&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bangsv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
   [![codewars](https://www.codewars.com/users/bangsv/badges/large)](https://www.codewars.com/users/bangsv) 
-   
+   <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Bang.png" width="300" />
    ---
    
 ### :writing_hand: Summary :
