@@ -151,9 +151,7 @@ mindset: "Trust, but verify — then verify again."
 
 <div align="center">
 
-🟢 **Мониторинг событий** &nbsp;|&nbsp; 🟡 **Threat Hunting** &nbsp;|&nbsp; 🔴 **Реагирование на инциденты**
-
-*Системное мышление · Внимательность к деталям · Постоянный профессиональный рост*
+🟢 **Research** &nbsp;|&nbsp; 🟡 **Threat Hunting** &nbsp;|&nbsp; 🔴 **Реагирование на инциденты**
 
 </div>
 
