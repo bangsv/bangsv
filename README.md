@@ -37,7 +37,7 @@ name: bangsv
 role: SOC Analyst L2
 location: Russia
 focus:
-  - Мониторинг, анализ и расследование инцидентов ИБ (типовые/нетиповые)
+  - Мониторинг, анализ и расследование инцидентов ИБ 
   - Выявление, классификация и интерпретация событий безопасности
   - Построение хронологии инцидентов и цепочек компрометации (kill chain)
   - Тюнинг и оптимизация правил корреляции (снижение false positive)
@@ -109,20 +109,10 @@ mindset: "Trust, but verify — then verify again."
 
 🎯 Участвую в **CTF** (форензика, веб) &nbsp;|&nbsp; 🔵 Решаю Blue Team задачи на **Standoff 365** и **Sherlock (Hack The Box)**
 
-🔧 Разворачивал и настраивал: **ELK, ElastAlert, TheHive, Cortex, Suricata, Wazuh** — сбор, парсинг, корреляция, детект-логика
+🔧 Разворачивал и настраивал: **ELK, ElastAlert, TheHive, Cortex, Suricata, Wazuh, AD и хостовые машины с auditd и sysmon** — сбор, парсинг, корреляция, детект-логика
 
 </div>
 
----
-
-## `> ps aux | grep certifications`
-
-<div align="center">
-
-[![SIEM & CTF certificates](https://img.shields.io/badge/📄_Сертификаты_MaxPatrol_SIEM_%2F_KUMA-000000?style=for-the-badge&logoColor=00FF41)](https://disk.yandex.ru/d/v2NXK4es_AZBiA)
-[![CTF certificates](https://img.shields.io/badge/🏆_CTF_сертификаты-000000?style=for-the-badge&logoColor=00FF41)](https://disk.yandex.ru/d/DxBaIuEdaLzgiw)
-
-</div>
 
 ---
 
